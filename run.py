@@ -291,8 +291,10 @@ appList = {
             "/Applications/Adobe Photoshop 2021/Adobe Photoshop 2021.app/Contents/MacOS/Adobe Photoshop 2021",
             "/Applications/Adobe Photoshop 2022/Adobe Photoshop 2022.app/Contents/MacOS/Adobe Photoshop 2022",
             "/Applications/Adobe Photoshop 2023/Adobe Photoshop 2023.app/Contents/MacOS/Adobe Photoshop 2023",
-            "/Applications/Adobe Photoshop (Beta)/Adobe Photoshop (Beta).app/Contents/MacOS/Adobe Photoshop 2024",
             "/Applications/Adobe Photoshop 2024/Adobe Photoshop 2024.app/Contents/MacOS/Adobe Photoshop 2024",
+            "/Applications/Adobe Photoshop 2025/Adobe Photoshop 2025.app/Contents/MacOS/Adobe Photoshop 2025",
+            "/Applications/Adobe Photoshop (Beta)/Adobe Photoshop (Beta).app/Contents/MacOS/Adobe Photoshop 2024", # keeping for legacy generative fill users
+            "/Applications/Adobe Photoshop (Beta)/Adobe Photoshop (Beta).app/Contents/MacOS/Adobe Photoshop 2025",
         ]
     },
     "lr": {
@@ -307,6 +309,7 @@ appList = {
             "/Applications/Adobe Illustrator 2022/Adobe Illustrator.app/Contents/MacOS/Adobe Illustrator",
             "/Applications/Adobe Illustrator 2023/Adobe Illustrator.app/Contents/MacOS/Adobe Illustrator",
             "/Applications/Adobe Illustrator 2024/Adobe Illustrator.app/Contents/MacOS/Adobe Illustrator",
+            "/Applications/Adobe Illustrator 2025/Adobe Illustrator.app/Contents/MacOS/Adobe Illustrator",
         ]
     },
     "id": {
@@ -316,6 +319,8 @@ appList = {
             "/Applications/Adobe InDesign 2022/Adobe InDesign 2022.app/Contents/MacOS/PublicLib.dylib",
             "/Applications/Adobe InDesign 2023/Adobe InDesign 2023.app/Contents/MacOS/PublicLib.dylib",
             "/Applications/Adobe InDesign 2024/Adobe InDesign 2024.app/Contents/MacOS/PublicLib.dylib",
+            "/Applications/Adobe InDesign 2025/Adobe InDesign 2025.app/Contents/MacOS/PublicLib.dylib",
+
         ]
     },
     "ic": {
@@ -325,6 +330,7 @@ appList = {
             "/Applications/Adobe InCopy 2022/Adobe InCopy 2022.app/Contents/MacOS/PublicLib.dylib",
             "/Applications/Adobe InCopy 2023/Adobe InCopy 2023.app/Contents/MacOS/PublicLib.dylib",
             "/Applications/Adobe InCopy 2024/Adobe InCopy 2024.app/Contents/MacOS/PublicLib.dylib",
+            "/Applications/Adobe InCopy 2025/Adobe InCopy 2025.app/Contents/MacOS/PublicLib.dylib",
         ]
     },
     "au": {
@@ -334,6 +340,7 @@ appList = {
             "/Applications/Adobe Audition 2022/Adobe Audition 2022.app/Contents/Frameworks/AuUI.framework/Versions/A/AuUI",
             "/Applications/Adobe Audition 2023/Adobe Audition 2023.app/Contents/Frameworks/AuUI.framework/Versions/A/AuUI",
             "/Applications/Adobe Audition 2024/Adobe Audition 2024.app/Contents/Frameworks/AuUI.framework/Versions/A/AuUI",
+            "/Applications/Adobe Audition 2025/Adobe Audition 2025.app/Contents/Frameworks/AuUI.framework/Versions/A/AuUI",
         ]
     },
     "pr": {
@@ -343,6 +350,7 @@ appList = {
             "/Applications/Adobe Premiere Pro 2022/Adobe Premiere Pro 2022.app/Contents/Frameworks/Registration.framework/Versions/A/Registration",
             "/Applications/Adobe Premiere Pro 2023/Adobe Premiere Pro 2023.app/Contents/Frameworks/Registration.framework/Versions/A/Registration",
             "/Applications/Adobe Premiere Pro 2024/Adobe Premiere Pro 2024.app/Contents/Frameworks/Registration.framework/Versions/A/Registration",
+            "/Applications/Adobe Premiere Pro 2025/Adobe Premiere Pro 2025.app/Contents/Frameworks/Registration.framework/Versions/A/Registration",
         ]
     },
     "pl": {
@@ -359,6 +367,7 @@ appList = {
             "/Applications/Adobe Character Animator 2022/Adobe Character Animator 2022.app/Contents/MacOS/Character Animator",
             "/Applications/Adobe Character Animator 2023/Adobe Character Animator 2023.app/Contents/MacOS/Character Animator",
             "/Applications/Adobe Character Animator 2024/Adobe Character Animator 2024.app/Contents/MacOS/Character Animator",
+            "/Applications/Adobe Character Animator 2025/Adobe Character Animator 2025.app/Contents/MacOS/Character Animator",
         ]
     },
     "ae": {
@@ -366,9 +375,10 @@ appList = {
             "/Applications/Adobe After Effects 2020/Adobe After Effects 2020.app/Contents/Frameworks/AfterFXLib.framework/Versions/A/AfterFXLib",
             "/Applications/Adobe After Effects 2021/Adobe After Effects 2021.app/Contents/Frameworks/AfterFXLib.framework/Versions/A/AfterFXLib",
             "/Applications/Adobe After Effects 2022/Adobe After Effects 2022.app/Contents/Frameworks/AfterFXLib.framework/Versions/A/AfterFXLib",
-            "/Applications/Adobe After Effects (Beta)/Adobe After Effects (Beta).app/Contents/Frameworks/AfterFXLib.framework/Versions/A/AfterFXLib",
             "/Applications/Adobe After Effects 2023/Adobe After Effects 2023.app/Contents/Frameworks/AfterFXLib.framework/Versions/A/AfterFXLib",
             "/Applications/Adobe After Effects 2024/Adobe After Effects 2024.app/Contents/Frameworks/AfterFXLib.framework/Versions/A/AfterFXLib",
+            "/Applications/Adobe After Effects 2025/Adobe After Effects 2025.app/Contents/Frameworks/AfterFXLib.framework/Versions/A/AfterFXLib",
+            "/Applications/Adobe After Effects (Beta)/Adobe After Effects (Beta).app/Contents/Frameworks/AfterFXLib.framework/Versions/A/AfterFXLib",            
         ]
     },
     "me": {
@@ -376,9 +386,10 @@ appList = {
             "/Applications/Adobe Media Encoder 2020/Adobe Media Encoder 2020.app/Contents/MacOS/Adobe Media Encoder 2020",
             "/Applications/Adobe Media Encoder 2021/Adobe Media Encoder 2021.app/Contents/MacOS/Adobe Media Encoder 2021",
             "/Applications/Adobe Media Encoder 2022/Adobe Media Encoder 2022.app/Contents/MacOS/Adobe Media Encoder 2022",
-            "/Applications/Adobe Media Encoder (Beta)/Adobe Media Encoder (Beta).app/Contents/MacOS/Adobe Media Encoder (Beta)",
             "/Applications/Adobe Media Encoder 2023/Adobe Media Encoder 2023.app/Contents/MacOS/Adobe Media Encoder 2023",
             "/Applications/Adobe Media Encoder 2024/Adobe Media Encoder 2024.app/Contents/MacOS/Adobe Media Encoder 2024",
+            "/Applications/Adobe Media Encoder 2025/Adobe Media Encoder 2025.app/Contents/MacOS/Adobe Media Encoder 2025",
+            "/Applications/Adobe Media Encoder (Beta)/Adobe Media Encoder (Beta).app/Contents/MacOS/Adobe Media Encoder (Beta)",
         ]
     },
     "br": {
@@ -388,6 +399,7 @@ appList = {
             "/Applications/Adobe Bridge 2022/Adobe Bridge 2022.app/Contents/MacOS/Adobe Bridge 2022",
             "/Applications/Adobe Bridge 2023/Adobe Bridge 2023.app/Contents/MacOS/Adobe Bridge 2023",
             "/Applications/Adobe Bridge 2024/Adobe Bridge 2024.app/Contents/MacOS/Adobe Bridge 2024",
+            "/Applications/Adobe Bridge 2025/Adobe Bridge 2025.app/Contents/MacOS/Adobe Bridge 2025",
         ]
     },
     "an": {
@@ -397,6 +409,7 @@ appList = {
             "/Applications/Adobe Animate 2022/Adobe Animate 2022.app/Contents/MacOS/Adobe Animate 2022",
             "/Applications/Adobe Animate 2023/Adobe Animate 2023.app/Contents/MacOS/Adobe Animate 2023",
             "/Applications/Adobe Animate 2024/Adobe Animate 2024.app/Contents/MacOS/Adobe Animate 2024",
+            "/Applications/Adobe Animate 2025/Adobe Animate 2025.app/Contents/MacOS/Adobe Animate 2025",
         ]
     },
     "dw": {
